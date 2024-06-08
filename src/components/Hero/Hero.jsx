@@ -8,7 +8,8 @@ const Hero = () => {
       <div className='hero-text'>
         <h1>Our Website</h1>
         <p>
-            some text
+            some text for check
+            
         </p>
         <button className='btn'>Explore More <img src={dark_arrow} alt=""/></button>
       </div>
